@@ -9,3 +9,13 @@ They both look to optimize travel on a graph. However the shortest path problem 
 1.1-5:
 Synchronizing traffic lights requires precision.
 Calculating an itinerary often only requires a "good enough" solution.
+
+1.2-1:
+Calculating an optimal route. The algorithms allow us to find the one that takes the least time.
+1.2-2:
+We want n/log(n) < 8. This holds for 0 <= n <= 6.
+1.2-3:
+The smallest value of n is 15.
+
+1-1:
+Plug in the times into inverses of the functions [...].
